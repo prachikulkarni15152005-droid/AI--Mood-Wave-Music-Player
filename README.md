@@ -1,34 +1,76 @@
-# 🎵 AI Mood Wave Music Player
+AI Mood Wave Music Player 🎵
 
-## 📌 Project Overview
+Project Overview
 
-AI Mood Wave Music Player is a Deep Learning-based music recommendation system that detects a user's facial expression and recommends songs based on their mood.
+AI Mood Wave Music Player is an AI-based music recommendation system that detects the user's mood and suggests suitable songs based on their emotional state. The project aims to provide a personalized music experience by combining Artificial Intelligence and music recommendation techniques.
 
-This project was developed as part of my B.E. Artificial Intelligence & Machine Learning program.
+Objective
 
-## ✨ Features
+The main objective of this project is to develop an intelligent music player that can understand user emotions and recommend songs according to the detected mood, creating a more personalized and enjoyable listening experience.
 
-- Mood Detection using Facial Expressions
-- AI-Based Music Recommendation
-- Deep Learning Model
-- User-Friendly Interface
-- Real-time Emotion Recognition
+Features
 
-## 🛠 Technologies Used
+- 🎭 Mood-based music recommendation
+- 🤖 AI-based emotion detection
+- 🎵 Personalized song suggestions
+- 🖥️ User-friendly interface
+- 📂 Integrated music dataset
+
+Technologies Used
 
 - Python
-- TensorFlow
-- Keras
+- Artificial Intelligence / Machine Learning
+- Computer Vision
 - OpenCV
+- Deep Learning
+- TensorFlow / Keras
 - NumPy
 - Pandas
+- Matplotlib
 
-## 🏆 Achievements
+Project Structure
 
-- IEEE Conference Publication
-- Presented at International IEEE Conference
-- Second Prize in IEEE Intercollegiate Mini Project Showcase
+AI-Mood-Wave-Music-Player
+│
+├── Source_Code
+│   └── mini project.py
+│
+├── README.md
+│
+└── requirements.txt
 
-## 👩‍💻 Author
+How to Run the Project
 
-Prachi Kulkarni
+1. Clone this repository:
+
+git clone <repository-link>
+
+2. Install the required libraries:
+
+pip install -r requirements.txt
+
+3. Run the Python file:
+
+python "mini project.py"
+
+Applications
+
+- Personalized music recommendation systems
+- Emotion-aware entertainment platforms
+- AI-based human-computer interaction
+
+Project Publication
+
+This project was presented at an IEEE International Conference and published in an IEEE journal.
+
+Authors
+
+- Prachi Kulkarni
+- Dayand J
+- Prachi Bellure
+- Pratiksha
+- Vaishnavi
+
+Acknowledgement
+
+We thank our institution and project mentors for their guidance and support throughout the development of this project.
